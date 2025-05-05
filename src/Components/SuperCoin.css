@@ -1,0 +1,17 @@
+.super-coins {
+  padding: 20px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.super-coins-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.super-coins-info {
+  font-size: 1rem;
+  color: #333;
+}
